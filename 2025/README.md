@@ -6,9 +6,9 @@ This folder contains the materials from the Workshop on Ontology Design and Patt
 
 Download the complete collections from the GitHub releases:
 
-- **keynotes.zip** - All keynote presentations
-- **papers.zip** - All accepted papers
-- **presentations.zip** - All paper presentations
+- [**keynotes.zip**](https://github.com/ckindermann/workshop-on-ontology-design-and-patterns/releases/download/workshop-2025/keynotes.zip) - All keynote presentations
+- [**papers.zip**](https://github.com/ckindermann/workshop-on-ontology-design-and-patterns/releases/download/workshop-2025/papers.zip) - All accepted papers
+- [**presentations.zip**](https://github.com/ckindermann/workshop-on-ontology-design-and-patterns/releases/download/workshop-2025/presentations.zip) - All paper presentations
 
 ## Contents
 
