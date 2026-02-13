@@ -22,14 +22,29 @@ Published at [CEUR-WS Vol-4093](https://ceur-ws.org/Vol-4093/):
 
 - [Preface.pdf](https://ceur-ws.org/Vol-4093/Preface.pdf)
 
-1. [paper1.pdf](https://ceur-ws.org/Vol-4093/paper1.pdf)
-2. [paper2.pdf](https://ceur-ws.org/Vol-4093/paper2.pdf)
-3. [paper3.pdf](https://ceur-ws.org/Vol-4093/paper3.pdf)
-4. [paper4.pdf](https://ceur-ws.org/Vol-4093/paper4.pdf)
-5. [paper5.pdf](https://ceur-ws.org/Vol-4093/paper5.pdf)
-6. [paper6.pdf](https://ceur-ws.org/Vol-4093/paper6.pdf)
-7. [paper7.pdf](https://ceur-ws.org/Vol-4093/paper7.pdf)
-8. [paper8.pdf](https://ceur-ws.org/Vol-4093/paper8.pdf)
+1. [paper1.pdf](https://ceur-ws.org/Vol-4093/paper1.pdf) - **Is SHACL Suitable for Data Quality Assessment?**  
+   *Carolina Cortés, Lisa Ehrlinger, Lorena Etcheverry, Felix Naumann*
+
+2. [paper2.pdf](https://ceur-ws.org/Vol-4093/paper2.pdf) - **AISHIP: An Ontology for Extended Vessel Representation and Multimodal Data Integration**  
+   *Simon Burbach, Lennart Mackert, Maria Maleshkova*
+
+3. [paper3.pdf](https://ceur-ws.org/Vol-4093/paper3.pdf) - **BEAR: A Value-First Ontology Engineering Framework for Business Ecosystem Analysis and Representation**  
+   *Alican Tüzün, Nick Bassiliades, Herbert Jodlbauer, Georgios Meditskos*
+
+4. [paper4.pdf](https://ceur-ws.org/Vol-4093/paper4.pdf) - **ARGOS: Ontology Design Patterns for Governing Dynamic Data Operations in LLM-Powered Applications**  
+   *Nipun D. Pathirage, Oshani Seneviratne, Deborah L. McGuinness*
+
+5. [paper5.pdf](https://ceur-ws.org/Vol-4093/paper5.pdf) - **MQTT4SSN: An Ontology for the MQTT Message Protocol**  
+   *Niklas Doerner, Maria Maleshkova*
+
+6. [paper6.pdf](https://ceur-ws.org/Vol-4093/paper6.pdf) - **Capturing Requests and Context for ODRL-based Access and Usage Control**  
+   *Beatriz Esteves, Wout Slabbinck, Yassir Sellami, Andrea Cimmino, Víctor Rodríguez-Doncel, Ruben Verborgh*
+
+7. [paper7.pdf](https://ceur-ws.org/Vol-4093/paper7.pdf) - **Incentivizing Sustainable Data Exchanges through Unique Contextualization of History and Destiny**  
+   *Wout Slabbinck, Beatriz Esteves, Maarten de Mildt, Ruben Dedecker, Julián Rojas Meléndez, Sofie Verbrugge, Didier Colle, Pieter Colpaert, Ruben Verborgh*
+
+8. [paper8.pdf](https://ceur-ws.org/Vol-4093/paper8.pdf) - **An Ontology Design Pattern for Representing Temporal Indirection**  
+   *Yulia Svetashova*
 
 ### Presentations (8 files)
 
