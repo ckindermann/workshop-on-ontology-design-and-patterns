@@ -4,19 +4,25 @@ This folder contains the materials from the Workshop on Ontology Design and Patt
 
 ## Contents
 
-### Papers (10 files)
-
 Published at [CEUR-WS Vol-3636](https://ceur-ws.org/Vol-3636/):
 
 - [Preface.pdf](https://ceur-ws.org/Vol-3636/Preface.pdf)
 
+### Research Papers (2 files)
+
 1. [paper1.pdf](https://ceur-ws.org/Vol-3636/paper1.pdf)
 2. [paper2.pdf](https://ceur-ws.org/Vol-3636/paper2.pdf)
+
+### Pattern Papers (5 files)
+
 3. [paper3.pdf](https://ceur-ws.org/Vol-3636/paper3.pdf)
 4. [paper4.pdf](https://ceur-ws.org/Vol-3636/paper4.pdf)
 5. [paper5.pdf](https://ceur-ws.org/Vol-3636/paper5.pdf)
 6. [paper6.pdf](https://ceur-ws.org/Vol-3636/paper6.pdf)
 7. [paper7.pdf](https://ceur-ws.org/Vol-3636/paper7.pdf)
+
+### Short Papers (3 files)
+
 8. [paper8.pdf](https://ceur-ws.org/Vol-3636/paper8.pdf)
 9. [paper9.pdf](https://ceur-ws.org/Vol-3636/paper9.pdf)
 10. [paper10.pdf](https://ceur-ws.org/Vol-3636/paper10.pdf)
