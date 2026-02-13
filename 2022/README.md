@@ -6,7 +6,7 @@ This folder contains the materials from the Workshop on Ontology Design and Patt
 
 Published at [CEUR-WS Vol-3352](https://ceur-ws.org/Vol-3352/):
 
-- [Preface.pdf](https://ceur-ws.org/Vol-3352/Preface.pdf)
+- [Preface.pdf](https://ceur-ws.org/Vol-3352/preface.pdf)
 
 ### Research Papers (2 files)
 
@@ -15,11 +15,11 @@ Published at [CEUR-WS Vol-3352](https://ceur-ws.org/Vol-3352/):
 
 ### Pattern Papers (5 files)
 
-3. [paper3.pdf](https://ceur-ws.org/Vol-3352/pattern1.pdf)
-4. [paper4.pdf](https://ceur-ws.org/Vol-3352/pattern2.pdf)
-5. [paper5.pdf](https://ceur-ws.org/Vol-3352/pattern3.pdf)
-6. [paper6.pdf](https://ceur-ws.org/Vol-3352/pattern4.pdf)
-7. [paper7.pdf](https://ceur-ws.org/Vol-3352/pattern5.pdf)
+3. [pattern1.pdf](https://ceur-ws.org/Vol-3352/pattern1.pdf)
+4. [pattern2.pdf](https://ceur-ws.org/Vol-3352/pattern2.pdf)
+5. [pattern3.pdf](https://ceur-ws.org/Vol-3352/pattern3.pdf)
+6. [pattern4.pdf](https://ceur-ws.org/Vol-3352/pattern4.pdf)
+7. [pattern5.pdf](https://ceur-ws.org/Vol-3352/pattern5.pdf)
 
 ## Notes
 
