@@ -18,14 +18,18 @@ Download the complete collections from the GitHub releases:
 
 ### Papers (8 files)
 
-1. paper1.pdf
-2. paper2.pdf
-3. paper3.pdf
-4. paper4.pdf
-5. paper5.pdf
-6. paper6.pdf
-7. paper7.pdf
-8. paper8.pdf
+Published at [CEUR-WS Vol-4093](https://ceur-ws.org/Vol-4093/):
+
+- [Preface.pdf](https://ceur-ws.org/Vol-4093/Preface.pdf)
+
+1. [paper1.pdf](https://ceur-ws.org/Vol-4093/paper1.pdf)
+2. [paper2.pdf](https://ceur-ws.org/Vol-4093/paper2.pdf)
+3. [paper3.pdf](https://ceur-ws.org/Vol-4093/paper3.pdf)
+4. [paper4.pdf](https://ceur-ws.org/Vol-4093/paper4.pdf)
+5. [paper5.pdf](https://ceur-ws.org/Vol-4093/paper5.pdf)
+6. [paper6.pdf](https://ceur-ws.org/Vol-4093/paper6.pdf)
+7. [paper7.pdf](https://ceur-ws.org/Vol-4093/paper7.pdf)
+8. [paper8.pdf](https://ceur-ws.org/Vol-4093/paper8.pdf)
 
 ### Presentations (8 files)
 
@@ -41,4 +45,3 @@ Download the complete collections from the GitHub releases:
 ## Notes
 
 - All materials are available in the zip archives attached to the GitHub release
-- Presentations are numbered according to their Paper IDs
